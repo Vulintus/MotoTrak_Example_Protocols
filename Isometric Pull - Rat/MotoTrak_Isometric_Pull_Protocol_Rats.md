@@ -1,10 +1,10 @@
-***MotoTrak Isometric Pull Shaping/Training Example Protocol for Rats***
+# MotoTrak Isometric Pull Shaping/Training Example Protocol for Rats
 
 *Updated 2024-08-15*
 
-**<span style="text-decoration:underline;">NOTE:</span>** This protocol is meant to serve as one example of how rats can be trained on the isometric pull task with MotoTrak, but it is by no means the *only* way to train rats. Different labs may use different task parameters, different training steps, different session lengths and frequencies, and different timelines based on their particular models.
+**NOTE:** This protocol is meant to serve as one example of how rats can be trained on the isometric pull task with MotoTrak, but it is by no means the *only* way to train rats. Different labs may use different task parameters, different training steps, different session lengths and frequencies, and different timelines based on their particular models.
 
-**<span style="text-decoration:underline;">Stage and Implementation Files:</span>**
+## Stage and Implementation Files:
 
 Stage definition and implementation files, used with the MotoTrak Version 2.0 behavioral program, corresponding to the training/testing stages described in this protocol are hosted and maintained in a public [Github repository](https://github.com/Vulintus/MotoTrak_Example_Protocols). A zip file containing the stage definition and implementation files for this example protocol can also be downloaded from this link:
 
