@@ -45,45 +45,8 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | PURPOSE: | Train the rat to associate interaction with the pull handle with a food reward. |
 | STAGE: | P1 |
 | MODULE POSITION: | -0.5 cm (the pull handle will be easily accessible, protruding 0.5 cm into the cage)|
-
-<table>
-  <tr>
-   <td>PURPOSE:
-   </td>
-   <td>Train the rat to associate interaction with the pull handle with a food reward.
-   </td>
-  </tr>
-  <tr>
-   <td>STAGE:
-   </td>
-   <td>P1
-   </td>
-  </tr>
-  <tr>
-   <td>MODULE POSITION:
-   </td>
-   <td>-0.5 cm (the pull handle will be easily accessible, protruding 0.5 cm into the cage)
-   </td>
-  </tr>
-  <tr>
-   <td>HIT THRESHOLD:
-   </td>
-   <td>Static, 10 gm
-   </td>
-  </tr>
-  <tr>
-   <td>DESCRIPTION:
-   </td>
-   <td>For the first session, simply leave the rat to explore the cage. Try to avoid making loud distracting noises outside the cage. Often, the rat will spontaneously learn to interact with the pull handle. After 2 sessions, if the rat hasn’t spontaneously learned to interact with the pull handle, you can entice the rat by placing crushed pellet powder on or near the pull handle. The rat will then lick or bite the pull handle, and in the process will trigger feeding. This should lead to association.
-   </td>
-  </tr>
-  <tr>
-   <td>PROGRESSION:
-   </td>
-   <td>The rat is ready to progress to Step 2 as soon as it is clear an association has been made between feeding and the pull handle. A good rule of thumb is that 50 feedings in one session indicates successful association.
-   </td>
-  </tr>
-</table>
+| HIT THRESHOLD | Static, 10 gm |
+| DESCRIPTION: | For the first session, simply leave the rat to explore the cage. Try to avoid making loud distracting noises outside the cage. Often, the rat will spontaneously learn to interact with the pull handle. After 2 sessions, if the rat hasn’t spontaneously learned to interact with the pull handle, you can entice the rat by placing crushed pellet powder on or near the pull handle. The rat will then lick or | | PROGRESSION: |The rat is ready to progress to Step 2 as soon as it is clear an association has been made between feeding and the pull handle. A good rule of thumb is that 50 feedings in one session indicates successful association. |
 
 
 
