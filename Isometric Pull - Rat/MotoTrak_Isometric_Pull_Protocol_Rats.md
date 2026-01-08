@@ -24,24 +24,26 @@ If there’s already a file with the same name in the “StageImplementations”
 
 …And that’s it! You’re ready to try out this example protocol.
 
-**<span style="text-decoration:underline;">General Guidelines:</span>**
+## General Guidelines:
 
-**Session Length:**
+### Session Length:
 
 30 minutes, twice daily, with a 2+ hour intersession interval.
 
-**Feeding:**
+### Feeding:
 
 Make sure each rat’s home cage food has been removed and that their cage has a completed food restriction card.  Prior to starting training, put half a scoop of Bio-Serv pellets into the rat’s home cage to acclimate them to the food, otherwise they won’t trust the unfamiliar food during their first training session (neophobia). If the rat didn’t receive at least 150 pellets combined across the morning and afternoon sessions, feed the rat two full size home cage food pellets or half a scoop of Bio-Serv/Purina pellets. If you notice rats dropping weight quickly, let your study leader know! At the end of the week (after last session on Friday) all rats should have full feed in their home cages.
 
-**Habituation/Hand Training:**
+### Habituation/Hand Training:
 
 Naive rats should be handled for ~15 minutes each every day for a week after arrival. Handling and hand training can be done on the same days the rats start shaping on MotoTrak behavior.
 
+### Shaping Step 1 (1-2 days):
 
-
-**<span style="text-decoration:underline;">Shaping Step 1 (1-2 days):</span>**
-
+| :--- | :--- |
+| PURPOSE: | Train the rat to associate interaction with the pull handle with a food reward. |
+| STAGE: | P1 |
+| MODULE POSITION: | -0.5 cm (the pull handle will be easily accessible, protruding 0.5 cm into the cage)|
 
 <table>
   <tr>
