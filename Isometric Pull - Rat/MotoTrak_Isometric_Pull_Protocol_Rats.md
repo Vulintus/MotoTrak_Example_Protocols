@@ -53,13 +53,11 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | MODULE POSITION: | -0.5 cm (the pull handle will be easily accessible, protruding 0.5 cm into the cage)|
 | HIT THRESHOLD | Static, 10 gm |
 | DESCRIPTION: | For the first session, simply leave the rat to explore the cage. Try to avoid making loud distracting noises outside the cage. Often, the rat will spontaneously learn to interact with the pull handle. After 2 sessions, if the rat hasn’t spontaneously learned to interact with the pull handle, you can entice the rat by placing crushed pellet powder on or near the pull handle. The rat will then lick or bite the pull handle, and in the process will trigger feeding. This should lead to association. |
-
 | PROGRESSION: |The rat is ready to progress to Step 2 as soon as it is clear an association has been made between feeding and the pull handle. A good rule of thumb is that 50 feedings in one session indicates successful association. |
 
 ---
 
 ## Training Step 2 (2-10 sessions):
-
 
 | | |
 | :--- | :--- |
@@ -68,113 +66,37 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | MODULE POSITION: | 0.0 cm (even with the inner cage wall surface), automatically advancing to 2.0 cm as the rat learns the task. |
 | HIT THRESHOLD | Adaptive, between 10 gm (minimum) to 50 gm (maximum) |
 | DESCRIPTION: | In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle. For the first trials, similar to the shaping step, almost any light pull on the handle will trigger feeding. After the first 10 trials of each session the program will start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials (50th percentile). As the rat begins to pull with more force, the hit thresholds will increase, up to a maximum of 50 gm. If the rat performs badly, the hit threshold will decrease to keep them motivated, such that they are rewarded on ~50% of trials, on average. |
-| PROGRESSION: |The rat is ready to progress to Step 2 as soon as it is clear an association has been made between feeding and the pull handle. A good rule of thumb is that 50 feedings in one session indicates successful association. |
+| PROGRESSION: | The rat is ready to progress to Step 3 when they are consistently pulling with more than 50 grams of force for 50 trials in a row with the module at a distance of 2.0 cm. |
 
+---
 
+## Training Step 3 (2-10 sessions):
 
-   <td>DESCRIPTION:
-   </td>
-   <td>In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle. For the first trials, similar to the shaping step, almost any light pull on the handle will trigger feeding. After the first 10 trials of each session the program will start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials (50th percentile). As the rat begins to pull with more force, the hit thresholds will increase, up to a maximum of 50 gm. If the rat performs badly, the hit threshold will decrease to keep them motivated, such that they are rewarded on ~50% of trials, on average.
-   </td>
-  </tr>
-  <tr>
-   <td>PROGRESSION:
-   </td>
-   <td>The rat is ready to progress to Step 3 when they are consistently pulling with more than 50 grams of force for 50 trials in a row with the module at a distance of 2.0 cm.
-   </td>
-  </tr>
-</table>
+| | |
+| :--- | :--- |
+| PURPOSE: | Train the rat to reach to full extension outside the cage and to pull with at least 120 grams of force. |
+| STAGE: | P3 |
+| MODULE POSITION: | 2.0 cm (the pull handle will be 2.0 cm outside the cage, measured from the inner wall surface) |
+| HIT THRESHOLD | Adaptive, between 50 gm (minimum) to 120 gm (maximum) |
+| DESCRIPTION: | In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle in its final position. The hit threshold will start at 50 gm for the first 10 trials of each session, and the program will then start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials. As in the previous training step, when the rat pulls with more force, the hit thresholds will increase, and if the rat performs badly, the hit threshold will decrease to keep them motivated. |
+| PROGRESSION: | The rat is ready to progress to the Step 4, testing, when they are consistently pulling with more than 120 grams of force on 75% of trials. |
 
+---
 
-**<span style="text-decoration:underline;">Training Step 3 (2-10 sessions):</span>**
+## Training/Testing Step 4 (10+ sessions):
 
+| | |
+| :--- | :--- |
+| PURPOSE: | Test the rat’s isometric pull performance with full reach extension and a static 120 gram hit threshold. |
+| STAGE: | P4 |
+| MODULE POSITION: | 2.0 cm (the pull handle will be 2.0 cm outside the cage, measured from the inner wall surface) |
+| HIT THRESHOLD | Static, 120 gm |
+| DESCRIPTION: | The final step is to capture a stable dataset to serve as your pre-injury/pre-intervention baseline. In each session, the hit threshold will be 120 grams for every trial, and the rat will have to reach with a full extension to the pull handle. Overall session hit rate, i.e. the percent of trials in which the animal exceeds the 120 gm hit threshold, is the primary datapoint to watch. Rats may be continuing to learn the task in Step 4 and hit rates may take several sessions to stabilize. |
+| PROGRESSION: | The rat is considered fully trained and ready for injury/intervention when their hit rate is 75% or greater, on average, for 5 consecutive days (~10 sessions). |
 
-<table>
-  <tr>
-   <td>PURPOSE:
-   </td>
-   <td>Train the rat to reach to full extension outside the cage and to pull with at least 120 grams of force.
-   </td>
-  </tr>
-  <tr>
-   <td>STAGE:
-   </td>
-   <td>P3
-   </td>
-  </tr>
-  <tr>
-   <td>MODULE POSITION:
-   </td>
-   <td>2.0 cm (the pull handle will be 2.0 cm outside the cage, measured from the inner wall surface)
-   </td>
-  </tr>
-  <tr>
-   <td>HIT THRESHOLD:
-   </td>
-   <td>Adaptive, between 50 gm (minimum) to 120 gm (maximum)
-   </td>
-  </tr>
-  <tr>
-   <td>DESCRIPTION:
-   </td>
-   <td>In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle in its final position. The hit threshold will start at 50 gm for the first 10 trials of each session, and the program will then start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials. As in the previous training step, when the rat pulls with more force, the hit thresholds will increase, and if the rat performs badly, the hit threshold will decrease to keep them motivated.
-   </td>
-  </tr>
-  <tr>
-   <td>PROGRESSION:
-   </td>
-   <td>The rat is ready to progress to the Step 4, testing, when they are consistently pulling with more than 120 grams of force on 75% of trials.
-   </td>
-  </tr>
-</table>
+---
 
-
-**<span style="text-decoration:underline;">Training/Testing Step 4 (10+ sessions):</span>**
-
-
-<table>
-  <tr>
-   <td>PURPOSE:
-   </td>
-   <td>Test the rat’s isometric pull performance with full reach extension and a static 120 gram hit threshold.
-   </td>
-  </tr>
-  <tr>
-   <td>STAGE:
-   </td>
-   <td>P4
-   </td>
-  </tr>
-  <tr>
-   <td>MODULE POSITION:
-   </td>
-   <td>2.0 cm (the pull handle will be 2.0 cm outside the cage, measured from the inner wall surface)
-   </td>
-  </tr>
-  <tr>
-   <td>HIT THRESHOLD:
-   </td>
-   <td>Static, 120 gm
-   </td>
-  </tr>
-  <tr>
-   <td>DESCRIPTION:
-   </td>
-   <td>The final step is to capture a stable dataset to serve as your pre-injury/pre-intervention baseline. In each session, the hit threshold will be 120 grams for every trial, and the rat will have to reach with a full extension to the pull handle. Overall session hit rate, i.e. the percent of trials in which the animal exceeds the 120 gm hit threshold, is the primary datapoint to watch. Rats may be continuing to learn the task in Step 4 and hit rates may take several sessions to stabilize.
-   </td>
-  </tr>
-  <tr>
-   <td>PROGRESSION:
-   </td>
-   <td>The rat is considered fully trained and ready for injury/intervention when their hit rate is 75% or greater, on average, for 5 consecutive days (~10 sessions).
-   </td>
-  </tr>
-</table>
-
-
-**<span style="text-decoration:underline;">Daily Checklist:</span>**
-
-
+## Daily Checklist:
 
 * Did you weigh the rat prior to training/testing?
 * Are any feeder LEDs blinking red to indicate a feeding error/no pellets?
@@ -182,8 +104,6 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 * Did you spell the rat’s name correctly in the program?
 * Is the signal shown on the MotoTrak program showing zero force when none is applied?
 
-**<span style="text-decoration:underline;">Tips & Tricks:</span>**
-
-
+## Tips & Tricks:
 
 * Create duplicate training stages with identical parameters, but different descriptions, to organize rats’ sessions according to their progression in the study. For example, you could create a copy of training/testing stage “P4: Pull Criterion Testing” and name it “P5: Post-Lesion Testing” to indicate sessions that occur after an injury model.
