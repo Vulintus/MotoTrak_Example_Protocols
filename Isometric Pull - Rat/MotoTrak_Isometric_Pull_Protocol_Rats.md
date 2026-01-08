@@ -16,7 +16,7 @@ After you unzip the files, you’ll see a folder named “Stages” which contai
 
 First, copy/cut all of the *.MOTORSTAGE files and paste them into MotoTrak’s “Stages” folder, which you can get to from the main menu by clicking *Open configuration folder*.
 
-![alt_text](/assets/images/mototrak_v2p0_main_menu_open_configuration_folder_selected.png)
+![alt_text](../assets/images/mototrak_v2p0_main_menu_open_configuration_folder_selected.png)
 
 Next, copy/cut the “PythonPullStageImplementationRat.py” Python file and past it into the following folder (you will likely need administrator permissions on the computer you’re using):
 
@@ -25,6 +25,8 @@ C:\Program Files (x86)\Vulintus\MotoTrak\StageImplementations
 If there’s already a file with the same name in the “StageImplementations” folder, go ahead and overwrite it.
 
 …And that’s it! You’re ready to try out this example protocol.
+
+<div style="page-break-after: always;"></div>
 
 ---
  
@@ -42,6 +44,8 @@ Make sure each rat’s home cage food has been removed and that their cage has a
 
 Naive rats should be handled for ~15 minutes each every day for a week after arrival. Handling and hand training can be done on the same days the rats start shaping on MotoTrak behavior.
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Shaping Step 1 (1-2 days):
@@ -54,6 +58,8 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | HIT THRESHOLD: | Static, 10 gm |
 | DESCRIPTION: | For the first session, simply leave the rat to explore the cage. Try to avoid making loud distracting noises outside the cage. Often, the rat will spontaneously learn to interact with the pull handle. After 2 sessions, if the rat hasn’t spontaneously learned to interact with the pull handle, you can entice the rat by placing crushed pellet powder on or near the pull handle. The rat will then lick or bite the pull handle, and in the process will trigger feeding. This should lead to association. |
 | PROGRESSION: |The rat is ready to progress to Step 2 as soon as it is clear an association has been made between feeding and the pull handle. A good rule of thumb is that 50 feedings in one session indicates successful association. |
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -68,6 +74,8 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | DESCRIPTION: | In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle. For the first trials, similar to the shaping step, almost any light pull on the handle will trigger feeding. After the first 10 trials of each session the program will start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials (50th percentile). As the rat begins to pull with more force, the hit thresholds will increase, up to a maximum of 50 gm. If the rat performs badly, the hit threshold will decrease to keep them motivated, such that they are rewarded on ~50% of trials, on average. |
 | PROGRESSION: | The rat is ready to progress to Step 3 when they are consistently pulling with more than 50 grams of force for 50 trials in a row with the module at a distance of 2.0 cm. |
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Training Step 3 (2-10 sessions):
@@ -81,6 +89,8 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | DESCRIPTION: | In this step, we’ll start to train the rat to reach outside the cage, restricted to the left or right paw, to interact with the pull handle in its final position. The hit threshold will start at 50 gm for the first 10 trials of each session, and the program will then start adaptively setting the hit threshold for the next trial based on the median peak pull force from the previous 10 trials. As in the previous training step, when the rat pulls with more force, the hit thresholds will increase, and if the rat performs badly, the hit threshold will decrease to keep them motivated. |
 | PROGRESSION: | The rat is ready to progress to the Step 4, testing, when they are consistently pulling with more than 120 grams of force on 75% of trials. |
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Training/Testing Step 4 (10+ sessions):
@@ -93,6 +103,8 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 | HIT THRESHOLD: | Static, 120 gm |
 | DESCRIPTION: | The final step is to capture a stable dataset to serve as your pre-injury/pre-intervention baseline. In each session, the hit threshold will be 120 grams for every trial, and the rat will have to reach with a full extension to the pull handle. Overall session hit rate, i.e. the percent of trials in which the animal exceeds the 120 gm hit threshold, is the primary datapoint to watch. Rats may be continuing to learn the task in Step 4 and hit rates may take several sessions to stabilize. |
 | PROGRESSION: | The rat is considered fully trained and ready for injury/intervention when their hit rate is 75% or greater, on average, for 5 consecutive days (~10 sessions). |
+
+<div style="page-break-after: always;"></div>
 
 ---
 
