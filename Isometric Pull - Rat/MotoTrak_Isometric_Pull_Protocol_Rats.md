@@ -40,6 +40,7 @@ Naive rats should be handled for ~15 minutes each every day for a week after arr
 
 ### Shaping Step 1 (1-2 days):
 
+| | |
 | :--- | :--- |
 | PURPOSE: | Train the rat to associate interaction with the pull handle with a food reward. |
 | STAGE: | P1 |
