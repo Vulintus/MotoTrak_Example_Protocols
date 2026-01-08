@@ -14,11 +14,7 @@ After you unzip the files, you’ll see a folder named “Stages” which contai
 
 First, copy/cut all of the *.MOTORSTAGE files and paste them into MotoTrak’s “Stages” folder, which you can get to from the main menu by clicking *Open configuration folder*.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img width="516" height="392" alt="mototrak_v2p0_main_menu_open_configuration_folder_selected" src="https://github.com/user-attachments/assets/af638671-58c7-4b00-aa6d-c58c4122bb9c" />
+![alt_text](/assets/images/mototrak_v2p0_main_menu_open_configuration_folder_selected.png)
 
 Next, copy/cut the “PythonPullStageImplementationRat.py” Python file and past it into the following folder (you will likely need administrator permissions on the computer you’re using):
 
